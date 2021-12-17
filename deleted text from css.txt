@@ -1,3 +1,9 @@
+
+
+I have changed most <div> into section,aside,Header etc.
+
+I have removed some of this extra stuff from style.css file.
+
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
